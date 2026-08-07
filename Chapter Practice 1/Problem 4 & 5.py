@@ -6,6 +6,6 @@ directory_path='/php'
 # Use the os module to list the directory content
 contents=os.listdir(directory_path)
 
-# Print each file and directory name
+# Print each file and directory namegit 
 for item in contents:
     print(item)
